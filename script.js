@@ -9,6 +9,7 @@ let player1;
 let player2;
 let countPlayer1 = 0;
 let countPlayer2 = 0;
+ 
 
 const winCondition = [
     [0, 1, 2],
